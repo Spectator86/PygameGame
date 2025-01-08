@@ -5,3 +5,6 @@ FPS = 60
 
 BLACK = (0, 0, 0)
 WHITE = (255, 255, 255)
+
+SCROLL_X = 0
+SCROLL_Y = 0
